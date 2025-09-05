@@ -14,7 +14,7 @@
 
 4. Bed_Page 
 - Bed availability divided into 3 floors filtered by Doctor & Bed Type(ICU, GEN, O2, NICU)
-- Bed Status - Available, Occupied, Cleaning, Maintainance 
+- Bed Status - Available, Occupied, Cleaning, Maintainance along with Waiting Time.
 
 ✓ User
 
