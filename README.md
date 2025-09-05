@@ -2,14 +2,21 @@
 
 2 Sections & 3 Pages
 
-Login, SignUp, Landing_Page
+1. Home
+- 2 Hospital cards, On clicking -> SignUp
+
+2. SignUp - as Staff / User
+
+3. Login
 
 ✓ Staff
 
-
+4. Bed_Page 
 
 ✓ User
-1. Home
-- 2 Hospital cards, On clicking -> Bed page
 
-2. Bed Page 
+5. Bed_Page
+
+
+
+
