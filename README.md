@@ -9,14 +9,17 @@
 
 3. Login
 
+
 ✓ Staff
 
 4. Bed_Page 
+- Bed availability divided into 3 floors filtered by Doctor.
+- Bed Status - Available, Occupied, Cleaning, Maintainance 
 
 ✓ User
 
 5. Bed_Page
-
+- Only available beds divided into 3 floors filtered by Doctor
 
 
 
