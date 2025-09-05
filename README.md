@@ -16,7 +16,8 @@
 4. Staff_Bed 
 - Bed availability divided into 3 floors filtered by Doctor & Bed Type(ICU, GEN, O2, NICU)
 - Edit Bed Status - Available, Occupied, Cleaning, Maintainance along with Waiting Time.
-- Edit Dr. 
+- Edit Dr.
+- Add patient -> Pop up -> Option of Patients, Prblm
 
 
 ✓ User
