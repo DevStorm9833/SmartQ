@@ -1,6 +1,7 @@
 # SmartQ
 
-2 Sections & Pages
+2 Sections & 3 Pages
+
 ✓ Staff
 
 
