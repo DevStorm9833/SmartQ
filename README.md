@@ -2,6 +2,8 @@
 
 2 Sections & 3 Pages
 
+Login, SignUp, Landing_Page
+
 ✓ Staff
 
 
