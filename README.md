@@ -12,14 +12,15 @@
 
 ✓ Staff
 
-4. Bed_Page 
+4. Staff_Bed 
 - Bed availability divided into 3 floors filtered by Doctor & Bed Type(ICU, GEN, O2, NICU)
-- Bed Status - Available, Occupied, Cleaning, Maintainance along with Waiting Time.
+- Edit Bed Status - Available, Occupied, Cleaning, Maintainance along with Waiting Time.
 
 ✓ User
 
-5. Bed_Page
-- Only available beds divided into 3 floors filtered by Doctor
+5. User_Bed
+- Only available beds divided into 3 floors filtered by Doctor.
+- Show Bed Status - Available, Occupied, Cleaning, Maintainance along with Waiting.
 
 
 
